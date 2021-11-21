@@ -1,0 +1,951 @@
+MONATSZAHL,AUSPRAEGUNG,JAHR,MONAT,WERT,VORJAHRESWERT,VERAEND_VORMONAT_PROZENT,VERAEND_VORJAHRESMONAT_PROZENT,ZWOELF_MONATE_MITTELWERT
+Altersgruppen,0 bis 9 Jahre,2021,Summe,86,473,,-81.82,
+Altersgruppen,0 bis 9 Jahre,2021,202103,86,71,-25.86,21.13,122
+Altersgruppen,0 bis 9 Jahre,2021,202106,,119,,,
+Altersgruppen,0 bis 9 Jahre,2021,202109,,167,,,
+Altersgruppen,0 bis 9 Jahre,2021,202112,,116,,,
+Altersgruppen,0 bis 9 Jahre,2020,Summe,473,350,,35.14,
+Altersgruppen,0 bis 9 Jahre,2020,202003,71,85,-20.22,-16.47,84
+Altersgruppen,0 bis 9 Jahre,2020,202006,119,76,67.61,56.58,95
+Altersgruppen,0 bis 9 Jahre,2020,202009,167,100,40.34,67,112
+Altersgruppen,0 bis 9 Jahre,2020,202012,116,89,-30.54,30.34,118
+Altersgruppen,0 bis 9 Jahre,2019,Summe,350,268,,30.6,
+Altersgruppen,0 bis 9 Jahre,2019,201903,85,72,80.85,18.06,70
+Altersgruppen,0 bis 9 Jahre,2019,201906,76,74,-10.59,2.7,71
+Altersgruppen,0 bis 9 Jahre,2019,201909,100,75,31.58,33.33,77
+Altersgruppen,0 bis 9 Jahre,2019,201912,89,47,-11,89.36,88
+Altersgruppen,0 bis 9 Jahre,2018,Summe,268,183,,46.45,
+Altersgruppen,0 bis 9 Jahre,2018,201803,72,41,100,75.61,54
+Altersgruppen,0 bis 9 Jahre,2018,201806,74,50,2.78,48,60
+Altersgruppen,0 bis 9 Jahre,2018,201809,75,56,1.35,33.93,64
+Altersgruppen,0 bis 9 Jahre,2018,201812,47,36,-37.33,30.56,67
+Altersgruppen,0 bis 9 Jahre,2017,Summe,183,185,,-1.08,
+Altersgruppen,0 bis 9 Jahre,2017,201703,41,44,-19.61,-6.82,46
+Altersgruppen,0 bis 9 Jahre,2017,201706,50,36,21.95,38.89,49
+Altersgruppen,0 bis 9 Jahre,2017,201709,56,54,12,3.7,50
+Altersgruppen,0 bis 9 Jahre,2017,201712,36,51,-35.71,-29.41,46
+Altersgruppen,0 bis 9 Jahre,2016,Summe,185,191,,-3.14,
+Altersgruppen,0 bis 9 Jahre,2016,201603,44,36,-16.98,22.22,50
+Altersgruppen,0 bis 9 Jahre,2016,201606,36,45,-18.18,-20,48
+Altersgruppen,0 bis 9 Jahre,2016,201609,54,57,50,-5.26,47
+Altersgruppen,0 bis 9 Jahre,2016,201612,51,53,-5.56,-3.77,46
+Altersgruppen,0 bis 9 Jahre,2015,Summe,191,145,,31.72,
+Altersgruppen,0 bis 9 Jahre,2015,201503,36,47,-7.69,-23.4,34
+Altersgruppen,0 bis 9 Jahre,2015,201506,45,26,25,73.08,38
+Altersgruppen,0 bis 9 Jahre,2015,201509,57,33,26.67,72.73,44
+Altersgruppen,0 bis 9 Jahre,2015,201512,53,39,-7.02,35.9,48
+Altersgruppen,0 bis 9 Jahre,2014,Summe,145,173,,-16.18,
+Altersgruppen,0 bis 9 Jahre,2014,201403,47,39,9.3,20.51,45
+Altersgruppen,0 bis 9 Jahre,2014,201406,26,44,-44.68,-40.91,41
+Altersgruppen,0 bis 9 Jahre,2014,201409,33,47,26.92,-29.79,37
+Altersgruppen,0 bis 9 Jahre,2014,201412,39,43,18.18,-9.3,36
+Altersgruppen,0 bis 9 Jahre,2013,Summe,173,182,,-4.95,
+Altersgruppen,0 bis 9 Jahre,2013,201303,39,41,2.63,-4.88,45
+Altersgruppen,0 bis 9 Jahre,2013,201306,44,47,12.82,-6.38,44
+Altersgruppen,0 bis 9 Jahre,2013,201309,47,56,6.82,-16.07,42
+Altersgruppen,0 bis 9 Jahre,2013,201312,43,38,-8.51,13.16,43
+Altersgruppen,0 bis 9 Jahre,2012,Summe,182,228,,-20.18,
+Altersgruppen,0 bis 9 Jahre,2012,201203,41,63,-32.79,-34.92,52
+Altersgruppen,0 bis 9 Jahre,2012,201206,47,52,14.63,-9.62,50
+Altersgruppen,0 bis 9 Jahre,2012,201209,56,52,19.15,7.69,51
+Altersgruppen,0 bis 9 Jahre,2012,201212,38,61,-32.14,-37.7,46
+Altersgruppen,0 bis 9 Jahre,2011,Summe,228,195,,16.92,
+Altersgruppen,0 bis 9 Jahre,2011,201103,63,37,3.28,70.27,55
+Altersgruppen,0 bis 9 Jahre,2011,201106,52,46,-17.46,13.04,57
+Altersgruppen,0 bis 9 Jahre,2011,201109,52,51,0,1.96,57
+Altersgruppen,0 bis 9 Jahre,2011,201112,61,61,17.31,0,57
+Altersgruppen,0 bis 9 Jahre,2010,Summe,195,208,,-6.25,
+Altersgruppen,0 bis 9 Jahre,2010,201003,37,44,-13.95,-15.91,50
+Altersgruppen,0 bis 9 Jahre,2010,201006,46,53,24.32,-13.21,49
+Altersgruppen,0 bis 9 Jahre,2010,201009,51,68,10.87,-25,44
+Altersgruppen,0 bis 9 Jahre,2010,201012,61,43,19.61,41.86,49
+Altersgruppen,0 bis 9 Jahre,2009,Summe,208,112,,85.71,
+Altersgruppen,0 bis 9 Jahre,2009,200903,44,23,62.96,91.3,33
+Altersgruppen,0 bis 9 Jahre,2009,200906,53,28,20.45,89.29,40
+Altersgruppen,0 bis 9 Jahre,2009,200909,68,34,28.3,100,48
+Altersgruppen,0 bis 9 Jahre,2009,200912,43,27,-36.76,59.26,52
+Altersgruppen,0 bis 9 Jahre,2008,Summe,112,165,,-32.12,
+Altersgruppen,0 bis 9 Jahre,2008,200803,23,35,-41.03,-34.29,38
+Altersgruppen,0 bis 9 Jahre,2008,200806,28,41,21.74,-31.71,35
+Altersgruppen,0 bis 9 Jahre,2008,200809,34,50,21.43,-32,31
+Altersgruppen,0 bis 9 Jahre,2008,200812,27,39,-20.59,-30.77,28
+Altersgruppen,0 bis 9 Jahre,2007,Summe,165,120,,37.5,
+Altersgruppen,0 bis 9 Jahre,2007,200703,35,29,9.38,20.69,32
+Altersgruppen,0 bis 9 Jahre,2007,200706,41,31,17.14,32.26,34
+Altersgruppen,0 bis 9 Jahre,2007,200709,50,28,21.95,78.57,40
+Altersgruppen,0 bis 9 Jahre,2007,200712,39,32,-22,21.88,41
+Altersgruppen,0 bis 9 Jahre,2006,Summe,120,150,,-20,
+Altersgruppen,0 bis 9 Jahre,2006,200603,29,43,-35.56,-32.56,34
+Altersgruppen,0 bis 9 Jahre,2006,200606,31,31,6.9,0,34
+Altersgruppen,0 bis 9 Jahre,2006,200609,28,31,-9.68,-9.68,33
+Altersgruppen,0 bis 9 Jahre,2006,200612,32,45,14.29,-28.89,30
+Altersgruppen,0 bis 9 Jahre,2005,Summe,150,175,,-14.29,
+Altersgruppen,0 bis 9 Jahre,2005,200503,43,41,-4.44,4.88,44
+Altersgruppen,0 bis 9 Jahre,2005,200506,31,42,-27.91,-26.19,42
+Altersgruppen,0 bis 9 Jahre,2005,200509,31,47,0,-34.04,38
+Altersgruppen,0 bis 9 Jahre,2005,200512,45,45,45.16,0,38
+Altersgruppen,0 bis 9 Jahre,2004,Summe,175,239,,-26.78,
+Altersgruppen,0 bis 9 Jahre,2004,200403,41,66,-14.58,-37.88,54
+Altersgruppen,0 bis 9 Jahre,2004,200406,42,51,2.44,-17.65,51
+Altersgruppen,0 bis 9 Jahre,2004,200409,47,74,11.9,-36.49,45
+Altersgruppen,0 bis 9 Jahre,2004,200412,45,48,-4.26,-6.25,44
+Altersgruppen,0 bis 9 Jahre,2003,Summe,239,,,,
+Altersgruppen,0 bis 9 Jahre,2003,200303,66,,,,66
+Altersgruppen,0 bis 9 Jahre,2003,200306,51,,-22.73,,59
+Altersgruppen,0 bis 9 Jahre,2003,200309,74,,45.1,,64
+Altersgruppen,0 bis 9 Jahre,2003,200312,48,,-35.14,,60
+Altersgruppen,10 bis 19 Jahre,2021,Summe,149,697,,-78.62,
+Altersgruppen,10 bis 19 Jahre,2021,202103,149,138,-11.31,7.97,177
+Altersgruppen,10 bis 19 Jahre,2021,202106,,195,,,
+Altersgruppen,10 bis 19 Jahre,2021,202109,,196,,,
+Altersgruppen,10 bis 19 Jahre,2021,202112,,168,,,
+Altersgruppen,10 bis 19 Jahre,2020,Summe,697,619,,12.6,
+Altersgruppen,10 bis 19 Jahre,2020,202003,138,149,-29.95,-7.38,152
+Altersgruppen,10 bis 19 Jahre,2020,202006,195,126,41.3,54.76,169
+Altersgruppen,10 bis 19 Jahre,2020,202009,196,147,0.51,33.33,182
+Altersgruppen,10 bis 19 Jahre,2020,202012,168,197,-14.29,-14.72,174
+Altersgruppen,10 bis 19 Jahre,2019,Summe,619,500,,23.8,
+Altersgruppen,10 bis 19 Jahre,2019,201903,149,141,21.14,5.67,127
+Altersgruppen,10 bis 19 Jahre,2019,201906,126,105,-15.44,20,132
+Altersgruppen,10 bis 19 Jahre,2019,201909,147,131,16.67,12.21,136
+Altersgruppen,10 bis 19 Jahre,2019,201912,197,123,34.01,60.16,155
+Altersgruppen,10 bis 19 Jahre,2018,Summe,500,385,,29.87,
+Altersgruppen,10 bis 19 Jahre,2018,201803,141,88,24.78,60.23,110
+Altersgruppen,10 bis 19 Jahre,2018,201806,105,96,-25.53,9.38,112
+Altersgruppen,10 bis 19 Jahre,2018,201809,131,88,24.76,48.86,123
+Altersgruppen,10 bis 19 Jahre,2018,201812,123,113,-6.11,8.85,125
+Altersgruppen,10 bis 19 Jahre,2017,Summe,385,407,,-5.41,
+Altersgruppen,10 bis 19 Jahre,2017,201703,88,92,-19.27,-4.35,101
+Altersgruppen,10 bis 19 Jahre,2017,201706,96,109,9.09,-11.93,98
+Altersgruppen,10 bis 19 Jahre,2017,201709,88,97,-8.33,-9.28,95
+Altersgruppen,10 bis 19 Jahre,2017,201712,113,109,28.41,3.67,96
+Altersgruppen,10 bis 19 Jahre,2016,Summe,407,338,,20.41,
+Altersgruppen,10 bis 19 Jahre,2016,201603,92,43,-13.21,113.95,97
+Altersgruppen,10 bis 19 Jahre,2016,201606,109,113,18.48,-3.54,96
+Altersgruppen,10 bis 19 Jahre,2016,201609,97,76,-11.01,27.63,101
+Altersgruppen,10 bis 19 Jahre,2016,201612,109,106,12.37,2.83,102
+Altersgruppen,10 bis 19 Jahre,2015,Summe,338,318,,6.29,
+Altersgruppen,10 bis 19 Jahre,2015,201503,43,88,-51.69,-51.14,68
+Altersgruppen,10 bis 19 Jahre,2015,201506,113,55,162.79,105.45,83
+Altersgruppen,10 bis 19 Jahre,2015,201509,76,86,-32.74,-11.63,80
+Altersgruppen,10 bis 19 Jahre,2015,201512,106,89,39.47,19.1,85
+Altersgruppen,10 bis 19 Jahre,2014,Summe,318,367,,-13.35,
+Altersgruppen,10 bis 19 Jahre,2014,201403,88,87,-10.2,1.15,92
+Altersgruppen,10 bis 19 Jahre,2014,201406,55,79,-37.5,-30.38,86
+Altersgruppen,10 bis 19 Jahre,2014,201409,86,103,56.36,-16.5,82
+Altersgruppen,10 bis 19 Jahre,2014,201412,89,98,3.49,-9.18,80
+Altersgruppen,10 bis 19 Jahre,2013,Summe,367,375,,-2.13,
+Altersgruppen,10 bis 19 Jahre,2013,201303,87,108,0,-19.44,89
+Altersgruppen,10 bis 19 Jahre,2013,201306,79,82,-9.2,-3.66,88
+Altersgruppen,10 bis 19 Jahre,2013,201309,103,98,30.38,5.1,89
+Altersgruppen,10 bis 19 Jahre,2013,201312,98,87,-4.85,12.64,92
+Altersgruppen,10 bis 19 Jahre,2012,Summe,375,344,,9.01,
+Altersgruppen,10 bis 19 Jahre,2012,201203,108,96,66.15,12.5,89
+Altersgruppen,10 bis 19 Jahre,2012,201206,82,100,-24.07,-18,85
+Altersgruppen,10 bis 19 Jahre,2012,201209,98,83,19.51,18.07,88
+Altersgruppen,10 bis 19 Jahre,2012,201212,87,65,-11.22,33.85,94
+Altersgruppen,10 bis 19 Jahre,2011,Summe,344,316,,8.86,
+Altersgruppen,10 bis 19 Jahre,2011,201103,96,90,50,6.67,81
+Altersgruppen,10 bis 19 Jahre,2011,201106,100,73,4.17,36.99,87
+Altersgruppen,10 bis 19 Jahre,2011,201109,83,89,-17,-6.74,86
+Altersgruppen,10 bis 19 Jahre,2011,201112,65,64,-21.69,1.56,86
+Altersgruppen,10 bis 19 Jahre,2010,Summe,316,366,,-13.66,
+Altersgruppen,10 bis 19 Jahre,2010,201003,90,67,-5.26,34.33,97
+Altersgruppen,10 bis 19 Jahre,2010,201006,73,89,-18.89,-17.98,93
+Altersgruppen,10 bis 19 Jahre,2010,201009,89,115,21.92,-22.61,87
+Altersgruppen,10 bis 19 Jahre,2010,201012,64,95,-28.09,-32.63,79
+Altersgruppen,10 bis 19 Jahre,2009,Summe,366,300,,22,
+Altersgruppen,10 bis 19 Jahre,2009,200903,67,76,-1.47,-11.84,73
+Altersgruppen,10 bis 19 Jahre,2009,200906,89,74,32.84,20.27,77
+Altersgruppen,10 bis 19 Jahre,2009,200909,115,82,29.21,40.24,85
+Altersgruppen,10 bis 19 Jahre,2009,200912,95,68,-17.39,39.71,92
+Altersgruppen,10 bis 19 Jahre,2008,Summe,300,343,,-12.54,
+Altersgruppen,10 bis 19 Jahre,2008,200803,76,65,-8.43,16.92,89
+Altersgruppen,10 bis 19 Jahre,2008,200806,74,105,-2.63,-29.52,81
+Altersgruppen,10 bis 19 Jahre,2008,200809,82,90,10.81,-8.89,79
+Altersgruppen,10 bis 19 Jahre,2008,200812,68,83,-17.07,-18.07,75
+Altersgruppen,10 bis 19 Jahre,2007,Summe,343,322,,6.52,
+Altersgruppen,10 bis 19 Jahre,2007,200703,65,66,-24.42,-1.52,80
+Altersgruppen,10 bis 19 Jahre,2007,200706,105,100,61.54,5,82
+Altersgruppen,10 bis 19 Jahre,2007,200709,90,70,-14.29,28.57,87
+Altersgruppen,10 bis 19 Jahre,2007,200712,83,86,-7.78,-3.49,86
+Altersgruppen,10 bis 19 Jahre,2006,Summe,322,353,,-8.78,
+Altersgruppen,10 bis 19 Jahre,2006,200603,66,83,-16.46,-20.48,84
+Altersgruppen,10 bis 19 Jahre,2006,200606,100,105,51.52,-4.76,83
+Altersgruppen,10 bis 19 Jahre,2006,200609,70,86,-30,-18.6,79
+Altersgruppen,10 bis 19 Jahre,2006,200612,86,79,22.86,8.86,81
+Altersgruppen,10 bis 19 Jahre,2005,Summe,353,424,,-16.75,
+Altersgruppen,10 bis 19 Jahre,2005,200503,83,88,-10.75,-5.68,105
+Altersgruppen,10 bis 19 Jahre,2005,200506,105,121,26.51,-13.22,101
+Altersgruppen,10 bis 19 Jahre,2005,200509,86,122,-18.1,-29.51,92
+Altersgruppen,10 bis 19 Jahre,2005,200512,79,93,-8.14,-15.05,88
+Altersgruppen,10 bis 19 Jahre,2004,Summe,424,471,,-9.98,
+Altersgruppen,10 bis 19 Jahre,2004,200403,88,130,-25.42,-32.31,107
+Altersgruppen,10 bis 19 Jahre,2004,200406,121,84,37.5,44.05,117
+Altersgruppen,10 bis 19 Jahre,2004,200409,122,139,0.83,-12.23,112
+Altersgruppen,10 bis 19 Jahre,2004,200412,93,118,-23.77,-21.19,106
+Altersgruppen,10 bis 19 Jahre,2003,Summe,471,,,,
+Altersgruppen,10 bis 19 Jahre,2003,200303,130,,,,130
+Altersgruppen,10 bis 19 Jahre,2003,200306,84,,-35.38,,107
+Altersgruppen,10 bis 19 Jahre,2003,200309,139,,65.48,,118
+Altersgruppen,10 bis 19 Jahre,2003,200312,118,,-15.11,,118
+Altersgruppen,20 bis 29 Jahre,2021,Summe,254,1255,,-79.76,
+Altersgruppen,20 bis 29 Jahre,2021,202103,254,274,-1.93,-7.3,309
+Altersgruppen,20 bis 29 Jahre,2021,202106,,359,,,
+Altersgruppen,20 bis 29 Jahre,2021,202109,,363,,,
+Altersgruppen,20 bis 29 Jahre,2021,202112,,259,,,
+Altersgruppen,20 bis 29 Jahre,2020,Summe,1255,1263,,-0.63,
+Altersgruppen,20 bis 29 Jahre,2020,202003,274,331,-16.72,-17.22,302
+Altersgruppen,20 bis 29 Jahre,2020,202006,359,310,31.02,15.81,314
+Altersgruppen,20 bis 29 Jahre,2020,202009,363,293,1.11,23.89,331
+Altersgruppen,20 bis 29 Jahre,2020,202012,259,329,-28.65,-21.28,314
+Altersgruppen,20 bis 29 Jahre,2019,Summe,1263,1090,,15.87,
+Altersgruppen,20 bis 29 Jahre,2019,201903,331,275,34.01,20.36,287
+Altersgruppen,20 bis 29 Jahre,2019,201906,310,277,-6.34,11.91,295
+Altersgruppen,20 bis 29 Jahre,2019,201909,293,291,-5.48,0.69,295
+Altersgruppen,20 bis 29 Jahre,2019,201912,329,247,12.29,33.2,316
+Altersgruppen,20 bis 29 Jahre,2018,Summe,1090,727,,49.93,
+Altersgruppen,20 bis 29 Jahre,2018,201803,275,167,45.5,64.67,209
+Altersgruppen,20 bis 29 Jahre,2018,201806,277,177,0.73,56.5,234
+Altersgruppen,20 bis 29 Jahre,2018,201809,291,194,5.05,50,258
+Altersgruppen,20 bis 29 Jahre,2018,201812,247,189,-15.12,30.69,273
+Altersgruppen,20 bis 29 Jahre,2017,Summe,727,706,,2.97,
+Altersgruppen,20 bis 29 Jahre,2017,201703,167,170,3.73,-1.76,176
+Altersgruppen,20 bis 29 Jahre,2017,201706,177,165,5.99,7.27,179
+Altersgruppen,20 bis 29 Jahre,2017,201709,194,210,9.6,-7.62,175
+Altersgruppen,20 bis 29 Jahre,2017,201712,189,161,-2.58,17.39,182
+Altersgruppen,20 bis 29 Jahre,2016,Summe,706,590,,19.66,
+Altersgruppen,20 bis 29 Jahre,2016,201603,170,112,20.57,51.79,162
+Altersgruppen,20 bis 29 Jahre,2016,201606,165,170,-2.94,-2.94,161
+Altersgruppen,20 bis 29 Jahre,2016,201609,210,167,27.27,25.75,172
+Altersgruppen,20 bis 29 Jahre,2016,201612,161,141,-23.33,14.18,177
+Altersgruppen,20 bis 29 Jahre,2015,Summe,590,513,,15.01,
+Altersgruppen,20 bis 29 Jahre,2015,201503,112,137,-11.11,-18.25,122
+Altersgruppen,20 bis 29 Jahre,2015,201506,170,84,51.79,102.38,144
+Altersgruppen,20 bis 29 Jahre,2015,201509,167,166,-1.76,0.6,144
+Altersgruppen,20 bis 29 Jahre,2015,201512,141,126,-15.57,11.9,148
+Altersgruppen,20 bis 29 Jahre,2014,Summe,513,625,,-17.92,
+Altersgruppen,20 bis 29 Jahre,2014,201403,137,138,-19.88,-0.72,156
+Altersgruppen,20 bis 29 Jahre,2014,201406,84,143,-38.69,-41.26,141
+Altersgruppen,20 bis 29 Jahre,2014,201409,166,173,97.62,-4.05,140
+Altersgruppen,20 bis 29 Jahre,2014,201412,126,171,-24.1,-26.32,128
+Altersgruppen,20 bis 29 Jahre,2013,Summe,625,622,,0.48,
+Altersgruppen,20 bis 29 Jahre,2013,201303,138,193,10.4,-28.5,142
+Altersgruppen,20 bis 29 Jahre,2013,201306,143,131,3.62,9.16,145
+Altersgruppen,20 bis 29 Jahre,2013,201309,173,173,20.98,0,145
+Altersgruppen,20 bis 29 Jahre,2013,201312,171,125,-1.16,36.8,156
+Altersgruppen,20 bis 29 Jahre,2012,Summe,622,622,,0,
+Altersgruppen,20 bis 29 Jahre,2012,201203,193,158,9.04,22.15,164
+Altersgruppen,20 bis 29 Jahre,2012,201206,131,148,-32.12,-11.49,160
+Altersgruppen,20 bis 29 Jahre,2012,201209,173,139,32.06,24.46,169
+Altersgruppen,20 bis 29 Jahre,2012,201212,125,177,-27.75,-29.38,156
+Altersgruppen,20 bis 29 Jahre,2011,Summe,622,617,,0.81,
+Altersgruppen,20 bis 29 Jahre,2011,201103,158,179,17.91,-11.73,149
+Altersgruppen,20 bis 29 Jahre,2011,201106,148,135,-6.33,9.63,152
+Altersgruppen,20 bis 29 Jahre,2011,201109,139,169,-6.08,-17.75,145
+Altersgruppen,20 bis 29 Jahre,2011,201112,177,134,27.34,32.09,156
+Altersgruppen,20 bis 29 Jahre,2010,Summe,617,605,,1.98,
+Altersgruppen,20 bis 29 Jahre,2010,201003,179,128,32.59,39.84,164
+Altersgruppen,20 bis 29 Jahre,2010,201006,135,174,-24.58,-22.41,154
+Altersgruppen,20 bis 29 Jahre,2010,201009,169,168,25.19,0.6,155
+Altersgruppen,20 bis 29 Jahre,2010,201012,134,135,-20.71,-0.74,154
+Altersgruppen,20 bis 29 Jahre,2009,Summe,605,464,,30.39,
+Altersgruppen,20 bis 29 Jahre,2009,200903,128,128,12.28,0,116
+Altersgruppen,20 bis 29 Jahre,2009,200906,174,99,35.94,75.76,135
+Altersgruppen,20 bis 29 Jahre,2009,200909,168,123,-3.45,36.59,146
+Altersgruppen,20 bis 29 Jahre,2009,200912,135,114,-19.64,18.42,151
+Altersgruppen,20 bis 29 Jahre,2008,Summe,464,582,,-20.27,
+Altersgruppen,20 bis 29 Jahre,2008,200803,128,143,3.23,-10.49,142
+Altersgruppen,20 bis 29 Jahre,2008,200806,99,192,-22.66,-48.44,119
+Altersgruppen,20 bis 29 Jahre,2008,200809,123,123,24.24,0,119
+Altersgruppen,20 bis 29 Jahre,2008,200812,114,124,-7.32,-8.06,116
+Altersgruppen,20 bis 29 Jahre,2007,Summe,582,564,,3.19,
+Altersgruppen,20 bis 29 Jahre,2007,200703,143,155,13.49,-7.74,138
+Altersgruppen,20 bis 29 Jahre,2007,200706,192,152,34.27,26.32,148
+Altersgruppen,20 bis 29 Jahre,2007,200709,123,131,-35.94,-6.11,146
+Altersgruppen,20 bis 29 Jahre,2007,200712,124,126,0.81,-1.59,146
+Altersgruppen,20 bis 29 Jahre,2006,Summe,564,550,,2.55,
+Altersgruppen,20 bis 29 Jahre,2006,200603,155,170,17.42,-8.82,134
+Altersgruppen,20 bis 29 Jahre,2006,200606,152,138,-1.94,10.14,137
+Altersgruppen,20 bis 29 Jahre,2006,200609,131,110,-13.82,19.09,143
+Altersgruppen,20 bis 29 Jahre,2006,200612,126,132,-3.82,-4.55,141
+Altersgruppen,20 bis 29 Jahre,2005,Summe,550,659,,-16.54,
+Altersgruppen,20 bis 29 Jahre,2005,200503,170,162,6.92,4.94,167
+Altersgruppen,20 bis 29 Jahre,2005,200506,138,169,-18.82,-18.34,159
+Altersgruppen,20 bis 29 Jahre,2005,200509,110,169,-20.29,-34.91,144
+Altersgruppen,20 bis 29 Jahre,2005,200512,132,159,20,-16.98,138
+Altersgruppen,20 bis 29 Jahre,2004,Summe,659,737,,-10.58,
+Altersgruppen,20 bis 29 Jahre,2004,200403,162,180,-8.47,-10,180
+Altersgruppen,20 bis 29 Jahre,2004,200406,169,158,4.32,6.96,183
+Altersgruppen,20 bis 29 Jahre,2004,200409,169,222,0,-23.87,169
+Altersgruppen,20 bis 29 Jahre,2004,200412,159,177,-5.92,-10.17,165
+Altersgruppen,20 bis 29 Jahre,2003,Summe,737,,,,
+Altersgruppen,20 bis 29 Jahre,2003,200303,180,,,,180
+Altersgruppen,20 bis 29 Jahre,2003,200306,158,,-12.22,,169
+Altersgruppen,20 bis 29 Jahre,2003,200309,222,,40.51,,187
+Altersgruppen,20 bis 29 Jahre,2003,200312,177,,-20.27,,184
+Altersgruppen,30 bis 39 Jahre,2021,Summe,467,2093,,-77.69,
+Altersgruppen,30 bis 39 Jahre,2021,202103,467,415,-2.71,12.53,536
+Altersgruppen,30 bis 39 Jahre,2021,202106,,598,,,
+Altersgruppen,30 bis 39 Jahre,2021,202109,,600,,,
+Altersgruppen,30 bis 39 Jahre,2021,202112,,480,,,
+Altersgruppen,30 bis 39 Jahre,2020,Summe,2093,2198,,-4.78,
+Altersgruppen,30 bis 39 Jahre,2020,202003,415,666,-11.7,-37.69,487
+Altersgruppen,30 bis 39 Jahre,2020,202006,598,533,44.1,12.2,503
+Altersgruppen,30 bis 39 Jahre,2020,202009,600,529,0.33,13.42,521
+Altersgruppen,30 bis 39 Jahre,2020,202012,480,470,-20,2.13,523
+Altersgruppen,30 bis 39 Jahre,2019,Summe,2198,2002,,9.79,
+Altersgruppen,30 bis 39 Jahre,2019,201903,666,539,63.24,23.56,532
+Altersgruppen,30 bis 39 Jahre,2019,201906,533,491,-19.97,8.55,543
+Altersgruppen,30 bis 39 Jahre,2019,201909,529,564,-0.75,-6.21,534
+Altersgruppen,30 bis 39 Jahre,2019,201912,470,408,-11.15,15.2,550
+Altersgruppen,30 bis 39 Jahre,2018,Summe,2002,1349,,48.41,
+Altersgruppen,30 bis 39 Jahre,2018,201803,539,286,48.08,88.46,401
+Altersgruppen,30 bis 39 Jahre,2018,201806,491,316,-8.91,55.38,444
+Altersgruppen,30 bis 39 Jahre,2018,201809,564,383,14.87,47.26,490
+Altersgruppen,30 bis 39 Jahre,2018,201812,408,364,-27.66,12.09,501
+Altersgruppen,30 bis 39 Jahre,2017,Summe,1349,1194,,12.98,
+Altersgruppen,30 bis 39 Jahre,2017,201703,286,280,8.33,2.14,300
+Altersgruppen,30 bis 39 Jahre,2017,201706,316,294,10.49,7.48,306
+Altersgruppen,30 bis 39 Jahre,2017,201709,383,356,21.2,7.58,312
+Altersgruppen,30 bis 39 Jahre,2017,201712,364,264,-4.96,37.88,337
+Altersgruppen,30 bis 39 Jahre,2016,Summe,1194,1116,,6.99,
+Altersgruppen,30 bis 39 Jahre,2016,201603,280,186,-8.79,50.54,303
+Altersgruppen,30 bis 39 Jahre,2016,201606,294,315,5,-6.67,297
+Altersgruppen,30 bis 39 Jahre,2016,201609,356,308,21.09,15.58,309
+Altersgruppen,30 bis 39 Jahre,2016,201612,264,307,-25.84,-14.01,299
+Altersgruppen,30 bis 39 Jahre,2015,Summe,1116,844,,32.23,
+Altersgruppen,30 bis 39 Jahre,2015,201503,186,234,-13.49,-20.51,199
+Altersgruppen,30 bis 39 Jahre,2015,201506,315,134,69.35,135.07,244
+Altersgruppen,30 bis 39 Jahre,2015,201509,308,261,-2.22,18.01,256
+Altersgruppen,30 bis 39 Jahre,2015,201512,307,215,-0.32,42.79,279
+Altersgruppen,30 bis 39 Jahre,2014,Summe,844,1147,,-26.42,
+Altersgruppen,30 bis 39 Jahre,2014,201403,234,253,-15.83,-7.51,282
+Altersgruppen,30 bis 39 Jahre,2014,201406,134,274,-42.74,-51.09,247
+Altersgruppen,30 bis 39 Jahre,2014,201409,261,342,94.78,-23.68,227
+Altersgruppen,30 bis 39 Jahre,2014,201412,215,278,-17.62,-22.66,211
+Altersgruppen,30 bis 39 Jahre,2013,Summe,1147,1009,,13.68,
+Altersgruppen,30 bis 39 Jahre,2013,201303,253,259,5.42,-2.32,251
+Altersgruppen,30 bis 39 Jahre,2013,201306,274,228,8.3,20.18,262
+Altersgruppen,30 bis 39 Jahre,2013,201309,342,282,24.82,21.28,277
+Altersgruppen,30 bis 39 Jahre,2013,201312,278,240,-18.71,15.83,287
+Altersgruppen,30 bis 39 Jahre,2012,Summe,1009,1180,,-14.49,
+Altersgruppen,30 bis 39 Jahre,2012,201203,259,320,-18.3,-19.06,280
+Altersgruppen,30 bis 39 Jahre,2012,201206,228,289,-11.97,-21.11,265
+Altersgruppen,30 bis 39 Jahre,2012,201209,282,254,23.68,11.02,272
+Altersgruppen,30 bis 39 Jahre,2012,201212,240,317,-14.89,-24.29,252
+Altersgruppen,30 bis 39 Jahre,2011,Summe,1180,977,,20.78,
+Altersgruppen,30 bis 39 Jahre,2011,201103,320,261,53.11,22.61,259
+Altersgruppen,30 bis 39 Jahre,2011,201106,289,265,-9.69,9.06,265
+Altersgruppen,30 bis 39 Jahre,2011,201109,254,242,-12.11,4.96,268
+Altersgruppen,30 bis 39 Jahre,2011,201112,317,209,24.8,51.67,295
+Altersgruppen,30 bis 39 Jahre,2010,Summe,977,952,,2.63,
+Altersgruppen,30 bis 39 Jahre,2010,201003,261,222,22.54,17.57,248
+Altersgruppen,30 bis 39 Jahre,2010,201006,265,248,1.53,6.85,252
+Altersgruppen,30 bis 39 Jahre,2010,201009,242,269,-8.68,-10.04,245
+Altersgruppen,30 bis 39 Jahre,2010,201012,209,213,-13.64,-1.88,244
+Altersgruppen,30 bis 39 Jahre,2009,Summe,952,674,,41.25,
+Altersgruppen,30 bis 39 Jahre,2009,200903,222,161,41.4,37.89,184
+Altersgruppen,30 bis 39 Jahre,2009,200906,248,161,11.71,54.04,206
+Altersgruppen,30 bis 39 Jahre,2009,200909,269,195,8.47,37.95,224
+Altersgruppen,30 bis 39 Jahre,2009,200912,213,157,-20.82,35.67,238
+Altersgruppen,30 bis 39 Jahre,2008,Summe,674,818,,-17.6,
+Altersgruppen,30 bis 39 Jahre,2008,200803,161,213,-10.56,-24.41,192
+Altersgruppen,30 bis 39 Jahre,2008,200806,161,227,0,-29.07,175
+Altersgruppen,30 bis 39 Jahre,2008,200809,195,198,21.12,-1.52,174
+Altersgruppen,30 bis 39 Jahre,2008,200812,157,180,-19.49,-12.78,169
+Altersgruppen,30 bis 39 Jahre,2007,Summe,818,804,,1.74,
+Altersgruppen,30 bis 39 Jahre,2007,200703,213,220,7.04,-3.18,199
+Altersgruppen,30 bis 39 Jahre,2007,200706,227,217,6.57,4.61,202
+Altersgruppen,30 bis 39 Jahre,2007,200709,198,168,-12.78,17.86,209
+Altersgruppen,30 bis 39 Jahre,2007,200712,180,199,-9.09,-9.55,205
+Altersgruppen,30 bis 39 Jahre,2006,Summe,804,863,,-6.84,
+Altersgruppen,30 bis 39 Jahre,2006,200603,220,231,1.85,-4.76,213
+Altersgruppen,30 bis 39 Jahre,2006,200606,217,214,-1.36,1.4,214
+Altersgruppen,30 bis 39 Jahre,2006,200609,168,202,-22.58,-16.83,205
+Altersgruppen,30 bis 39 Jahre,2006,200612,199,216,18.45,-7.87,201
+Altersgruppen,30 bis 39 Jahre,2005,Summe,863,971,,-11.12,
+Altersgruppen,30 bis 39 Jahre,2005,200503,231,240,16.08,-3.75,241
+Altersgruppen,30 bis 39 Jahre,2005,200506,214,230,-7.36,-6.96,237
+Altersgruppen,30 bis 39 Jahre,2005,200509,202,302,-5.61,-33.11,212
+Altersgruppen,30 bis 39 Jahre,2005,200512,216,199,6.93,8.54,216
+Altersgruppen,30 bis 39 Jahre,2004,Summe,971,1125,,-13.69,
+Altersgruppen,30 bis 39 Jahre,2004,200403,240,275,-12.09,-12.73,273
+Altersgruppen,30 bis 39 Jahre,2004,200406,230,231,-4.17,-0.43,272
+Altersgruppen,30 bis 39 Jahre,2004,200409,302,346,31.3,-12.72,261
+Altersgruppen,30 bis 39 Jahre,2004,200412,199,273,-34.11,-27.11,243
+Altersgruppen,30 bis 39 Jahre,2003,Summe,1125,,,,
+Altersgruppen,30 bis 39 Jahre,2003,200303,275,,,,275
+Altersgruppen,30 bis 39 Jahre,2003,200306,231,,-16,,253
+Altersgruppen,30 bis 39 Jahre,2003,200309,346,,49.78,,284
+Altersgruppen,30 bis 39 Jahre,2003,200312,273,,-21.1,,281
+Altersgruppen,40 bis 49 Jahre,2021,Summe,274,1170,,-76.58,
+Altersgruppen,40 bis 49 Jahre,2021,202103,274,236,10.93,16.1,302
+Altersgruppen,40 bis 49 Jahre,2021,202106,,356,,,
+Altersgruppen,40 bis 49 Jahre,2021,202109,,331,,,
+Altersgruppen,40 bis 49 Jahre,2021,202112,,247,,,
+Altersgruppen,40 bis 49 Jahre,2020,Summe,1170,1261,,-7.22,
+Altersgruppen,40 bis 49 Jahre,2020,202003,236,353,-20.54,-33.14,286
+Altersgruppen,40 bis 49 Jahre,2020,202006,356,330,50.85,7.88,293
+Altersgruppen,40 bis 49 Jahre,2020,202009,331,281,-7.02,17.79,305
+Altersgruppen,40 bis 49 Jahre,2020,202012,247,297,-25.38,-16.84,293
+Altersgruppen,40 bis 49 Jahre,2019,Summe,1261,1214,,3.87,
+Altersgruppen,40 bis 49 Jahre,2019,201903,353,340,47.08,3.82,307
+Altersgruppen,40 bis 49 Jahre,2019,201906,330,316,-6.52,4.43,310
+Altersgruppen,40 bis 49 Jahre,2019,201909,281,318,-14.85,-11.64,301
+Altersgruppen,40 bis 49 Jahre,2019,201912,297,240,5.69,23.75,315
+Altersgruppen,40 bis 49 Jahre,2018,Summe,1214,813,,49.32,
+Altersgruppen,40 bis 49 Jahre,2018,201803,340,165,62.68,106.06,247
+Altersgruppen,40 bis 49 Jahre,2018,201806,316,201,-7.06,57.21,276
+Altersgruppen,40 bis 49 Jahre,2018,201809,318,238,0.63,33.61,296
+Altersgruppen,40 bis 49 Jahre,2018,201812,240,209,-24.53,14.83,304
+Altersgruppen,40 bis 49 Jahre,2017,Summe,813,648,,25.46,
+Altersgruppen,40 bis 49 Jahre,2017,201703,165,152,0,8.55,165
+Altersgruppen,40 bis 49 Jahre,2017,201706,201,169,21.82,18.93,173
+Altersgruppen,40 bis 49 Jahre,2017,201709,238,162,18.41,46.91,192
+Altersgruppen,40 bis 49 Jahre,2017,201712,209,165,-12.18,26.67,203
+Altersgruppen,40 bis 49 Jahre,2016,Summe,648,568,,14.08,
+Altersgruppen,40 bis 49 Jahre,2016,201603,152,90,-5,68.89,158
+Altersgruppen,40 bis 49 Jahre,2016,201606,169,168,11.18,0.6,158
+Altersgruppen,40 bis 49 Jahre,2016,201609,162,150,-4.14,8,161
+Altersgruppen,40 bis 49 Jahre,2016,201612,165,160,1.85,3.13,162
+Altersgruppen,40 bis 49 Jahre,2015,Summe,568,398,,42.71,
+Altersgruppen,40 bis 49 Jahre,2015,201503,90,110,-10.89,-18.18,95
+Altersgruppen,40 bis 49 Jahre,2015,201506,168,73,86.67,130.14,118
+Altersgruppen,40 bis 49 Jahre,2015,201509,150,114,-10.71,31.58,127
+Altersgruppen,40 bis 49 Jahre,2015,201512,160,101,6.67,58.42,142
+Altersgruppen,40 bis 49 Jahre,2014,Summe,398,514,,-22.57,
+Altersgruppen,40 bis 49 Jahre,2014,201403,110,124,-8.33,-11.29,125
+Altersgruppen,40 bis 49 Jahre,2014,201406,73,122,-33.64,-40.16,113
+Altersgruppen,40 bis 49 Jahre,2014,201409,114,148,56.16,-22.97,104
+Altersgruppen,40 bis 49 Jahre,2014,201412,101,120,-11.4,-15.83,100
+Altersgruppen,40 bis 49 Jahre,2013,Summe,514,468,,9.83,
+Altersgruppen,40 bis 49 Jahre,2013,201303,124,123,4.2,0.81,117
+Altersgruppen,40 bis 49 Jahre,2013,201306,122,93,-1.61,31.18,125
+Altersgruppen,40 bis 49 Jahre,2013,201309,148,133,21.31,11.28,128
+Altersgruppen,40 bis 49 Jahre,2013,201312,120,119,-18.92,0.84,129
+Altersgruppen,40 bis 49 Jahre,2012,Summe,468,575,,-18.61,
+Altersgruppen,40 bis 49 Jahre,2012,201203,123,150,-13.38,-18,137
+Altersgruppen,40 bis 49 Jahre,2012,201206,93,158,-24.39,-41.14,121
+Altersgruppen,40 bis 49 Jahre,2012,201209,133,125,43.01,6.4,123
+Altersgruppen,40 bis 49 Jahre,2012,201212,119,142,-10.53,-16.2,117
+Altersgruppen,40 bis 49 Jahre,2011,Summe,575,485,,18.56,
+Altersgruppen,40 bis 49 Jahre,2011,201103,150,140,19.05,7.14,124
+Altersgruppen,40 bis 49 Jahre,2011,201106,158,107,5.33,47.66,137
+Altersgruppen,40 bis 49 Jahre,2011,201109,125,112,-20.89,11.61,140
+Altersgruppen,40 bis 49 Jahre,2011,201112,142,126,13.6,12.7,144
+Altersgruppen,40 bis 49 Jahre,2010,Summe,485,489,,-0.82,
+Altersgruppen,40 bis 49 Jahre,2010,201003,140,115,52.17,21.74,129
+Altersgruppen,40 bis 49 Jahre,2010,201006,107,146,-23.57,-26.71,119
+Altersgruppen,40 bis 49 Jahre,2010,201009,112,136,4.67,-17.65,113
+Altersgruppen,40 bis 49 Jahre,2010,201012,126,92,12.5,36.96,121
+Altersgruppen,40 bis 49 Jahre,2009,Summe,489,356,,37.36,
+Altersgruppen,40 bis 49 Jahre,2009,200903,115,98,59.72,17.35,93
+Altersgruppen,40 bis 49 Jahre,2009,200906,146,92,26.96,58.7,107
+Altersgruppen,40 bis 49 Jahre,2009,200909,136,94,-6.85,44.68,117
+Altersgruppen,40 bis 49 Jahre,2009,200912,92,72,-32.35,27.78,122
+Altersgruppen,40 bis 49 Jahre,2008,Summe,356,476,,-25.21,
+Altersgruppen,40 bis 49 Jahre,2008,200803,98,114,1.03,-14.04,115
+Altersgruppen,40 bis 49 Jahre,2008,200806,92,141,-6.12,-34.75,103
+Altersgruppen,40 bis 49 Jahre,2008,200809,94,124,2.17,-24.19,95
+Altersgruppen,40 bis 49 Jahre,2008,200812,72,97,-23.4,-25.77,89
+Altersgruppen,40 bis 49 Jahre,2007,Summe,476,423,,12.53,
+Altersgruppen,40 bis 49 Jahre,2007,200703,114,121,14,-5.79,104
+Altersgruppen,40 bis 49 Jahre,2007,200706,141,112,23.68,25.89,111
+Altersgruppen,40 bis 49 Jahre,2007,200709,124,90,-12.06,37.78,120
+Altersgruppen,40 bis 49 Jahre,2007,200712,97,100,-21.77,-3,119
+Altersgruppen,40 bis 49 Jahre,2006,Summe,423,492,,-14.02,
+Altersgruppen,40 bis 49 Jahre,2006,200603,121,145,24.74,-16.55,117
+Altersgruppen,40 bis 49 Jahre,2006,200606,112,143,-7.44,-21.68,109
+Altersgruppen,40 bis 49 Jahre,2006,200609,90,107,-19.64,-15.89,105
+Altersgruppen,40 bis 49 Jahre,2006,200612,100,97,11.11,3.09,106
+Altersgruppen,40 bis 49 Jahre,2005,Summe,492,516,,-4.65,
+Altersgruppen,40 bis 49 Jahre,2005,200503,145,127,22.88,14.17,134
+Altersgruppen,40 bis 49 Jahre,2005,200506,143,146,-1.38,-2.05,133
+Altersgruppen,40 bis 49 Jahre,2005,200509,107,125,-25.17,-14.4,128
+Altersgruppen,40 bis 49 Jahre,2005,200512,97,118,-9.35,-17.8,123
+Altersgruppen,40 bis 49 Jahre,2004,Summe,516,579,,-10.88,
+Altersgruppen,40 bis 49 Jahre,2004,200403,127,154,8.55,-17.53,138
+Altersgruppen,40 bis 49 Jahre,2004,200406,146,127,14.96,14.96,143
+Altersgruppen,40 bis 49 Jahre,2004,200409,125,181,-14.38,-30.94,129
+Altersgruppen,40 bis 49 Jahre,2004,200412,118,117,-5.6,0.85,129
+Altersgruppen,40 bis 49 Jahre,2003,Summe,579,,,,
+Altersgruppen,40 bis 49 Jahre,2003,200303,154,,,,154
+Altersgruppen,40 bis 49 Jahre,2003,200306,127,,-17.53,,141
+Altersgruppen,40 bis 49 Jahre,2003,200309,181,,42.52,,154
+Altersgruppen,40 bis 49 Jahre,2003,200312,117,,-35.36,,145
+Altersgruppen,50 bis 59 Jahre,2021,Summe,114,445,,-74.38,
+Altersgruppen,50 bis 59 Jahre,2021,202103,114,112,14,1.79,112
+Altersgruppen,50 bis 59 Jahre,2021,202106,,112,,,
+Altersgruppen,50 bis 59 Jahre,2021,202109,,121,,,
+Altersgruppen,50 bis 59 Jahre,2021,202112,,100,,,
+Altersgruppen,50 bis 59 Jahre,2020,Summe,445,563,,-20.96,
+Altersgruppen,50 bis 59 Jahre,2020,202003,112,177,-13.85,-36.72,125
+Altersgruppen,50 bis 59 Jahre,2020,202006,112,133,0,-15.79,119
+Altersgruppen,50 bis 59 Jahre,2020,202009,121,123,8.04,-1.63,119
+Altersgruppen,50 bis 59 Jahre,2020,202012,100,130,-17.36,-23.08,111
+Altersgruppen,50 bis 59 Jahre,2019,Summe,563,508,,10.83,
+Altersgruppen,50 bis 59 Jahre,2019,201903,177,130,98.88,36.15,139
+Altersgruppen,50 bis 59 Jahre,2019,201906,133,155,-24.86,-14.19,133
+Altersgruppen,50 bis 59 Jahre,2019,201909,123,134,-7.52,-8.21,131
+Altersgruppen,50 bis 59 Jahre,2019,201912,130,89,5.69,46.07,141
+Altersgruppen,50 bis 59 Jahre,2018,Summe,508,326,,55.83,
+Altersgruppen,50 bis 59 Jahre,2018,201803,130,61,62.5,113.11,99
+Altersgruppen,50 bis 59 Jahre,2018,201806,155,71,19.23,118.31,120
+Altersgruppen,50 bis 59 Jahre,2018,201809,134,114,-13.55,17.54,125
+Altersgruppen,50 bis 59 Jahre,2018,201812,89,80,-33.58,11.25,127
+Altersgruppen,50 bis 59 Jahre,2017,Summe,326,204,,59.8,
+Altersgruppen,50 bis 59 Jahre,2017,201703,61,56,48.78,8.93,52
+Altersgruppen,50 bis 59 Jahre,2017,201706,71,55,16.39,29.09,56
+Altersgruppen,50 bis 59 Jahre,2017,201709,114,52,60.56,119.23,72
+Altersgruppen,50 bis 59 Jahre,2017,201712,80,41,-29.82,95.12,82
+Altersgruppen,50 bis 59 Jahre,2016,Summe,204,145,,40.69,
+Altersgruppen,50 bis 59 Jahre,2016,201603,56,19,33.33,194.74,46
+Altersgruppen,50 bis 59 Jahre,2016,201606,55,47,-1.79,17.02,48
+Altersgruppen,50 bis 59 Jahre,2016,201609,52,37,-5.45,40.54,51
+Altersgruppen,50 bis 59 Jahre,2016,201612,41,42,-21.15,-2.38,51
+Altersgruppen,50 bis 59 Jahre,2015,Summe,145,137,,5.84,
+Altersgruppen,50 bis 59 Jahre,2015,201503,19,35,-36.67,-45.71,30
+Altersgruppen,50 bis 59 Jahre,2015,201506,47,31,147.37,51.61,34
+Altersgruppen,50 bis 59 Jahre,2015,201509,37,41,-21.28,-9.76,33
+Altersgruppen,50 bis 59 Jahre,2015,201512,42,30,13.51,40,36
+Altersgruppen,50 bis 59 Jahre,2014,Summe,137,151,,-9.27,
+Altersgruppen,50 bis 59 Jahre,2014,201403,35,27,12.9,29.63,40
+Altersgruppen,50 bis 59 Jahre,2014,201406,31,37,-11.43,-16.22,38
+Altersgruppen,50 bis 59 Jahre,2014,201409,41,56,32.26,-26.79,35
+Altersgruppen,50 bis 59 Jahre,2014,201412,30,31,-26.83,-3.23,34
+Altersgruppen,50 bis 59 Jahre,2013,Summe,151,109,,38.53,
+Altersgruppen,50 bis 59 Jahre,2013,201303,27,32,-18.18,-15.63,26
+Altersgruppen,50 bis 59 Jahre,2013,201306,37,21,37.04,76.19,30
+Altersgruppen,50 bis 59 Jahre,2013,201309,56,23,51.35,143.48,38
+Altersgruppen,50 bis 59 Jahre,2013,201312,31,33,-44.64,-6.06,38
+Altersgruppen,50 bis 59 Jahre,2012,Summe,109,134,,-18.66,
+Altersgruppen,50 bis 59 Jahre,2012,201203,32,28,-8.57,14.29,35
+Altersgruppen,50 bis 59 Jahre,2012,201206,21,41,-34.38,-48.78,30
+Altersgruppen,50 bis 59 Jahre,2012,201209,23,30,9.52,-23.33,28
+Altersgruppen,50 bis 59 Jahre,2012,201212,33,35,43.48,-5.71,27
+Altersgruppen,50 bis 59 Jahre,2011,Summe,134,152,,-11.84,
+Altersgruppen,50 bis 59 Jahre,2011,201103,28,43,-36.36,-34.88,34
+Altersgruppen,50 bis 59 Jahre,2011,201106,41,32,46.43,28.13,37
+Altersgruppen,50 bis 59 Jahre,2011,201109,30,33,-26.83,-9.09,36
+Altersgruppen,50 bis 59 Jahre,2011,201112,35,44,16.67,-20.45,34
+Altersgruppen,50 bis 59 Jahre,2010,Summe,152,153,,-0.65,
+Altersgruppen,50 bis 59 Jahre,2010,201003,43,42,13.16,2.38,39
+Altersgruppen,50 bis 59 Jahre,2010,201006,32,36,-25.58,-11.11,38
+Altersgruppen,50 bis 59 Jahre,2010,201009,33,37,3.13,-10.81,37
+Altersgruppen,50 bis 59 Jahre,2010,201012,44,38,33.33,15.79,38
+Altersgruppen,50 bis 59 Jahre,2009,Summe,153,130,,17.69,
+Altersgruppen,50 bis 59 Jahre,2009,200903,42,24,82.61,75,37
+Altersgruppen,50 bis 59 Jahre,2009,200906,36,36,-14.29,0,37
+Altersgruppen,50 bis 59 Jahre,2009,200909,37,47,2.78,-21.28,35
+Altersgruppen,50 bis 59 Jahre,2009,200912,38,23,2.7,65.22,38
+Altersgruppen,50 bis 59 Jahre,2008,Summe,130,180,,-27.78,
+Altersgruppen,50 bis 59 Jahre,2008,200803,24,44,-27.27,-45.45,40
+Altersgruppen,50 bis 59 Jahre,2008,200806,36,52,50,-30.77,36
+Altersgruppen,50 bis 59 Jahre,2008,200809,47,51,30.56,-7.84,35
+Altersgruppen,50 bis 59 Jahre,2008,200812,23,33,-51.06,-30.3,33
+Altersgruppen,50 bis 59 Jahre,2007,Summe,180,214,,-15.89,
+Altersgruppen,50 bis 59 Jahre,2007,200703,44,57,2.33,-22.81,50
+Altersgruppen,50 bis 59 Jahre,2007,200706,52,62,18.18,-16.13,48
+Altersgruppen,50 bis 59 Jahre,2007,200709,51,52,-1.92,-1.92,48
+Altersgruppen,50 bis 59 Jahre,2007,200712,33,43,-35.29,-23.26,45
+Altersgruppen,50 bis 59 Jahre,2006,Summe,214,190,,12.63,
+Altersgruppen,50 bis 59 Jahre,2006,200603,57,62,42.5,-8.06,46
+Altersgruppen,50 bis 59 Jahre,2006,200606,62,42,8.77,47.62,51
+Altersgruppen,50 bis 59 Jahre,2006,200609,52,46,-16.13,13.04,53
+Altersgruppen,50 bis 59 Jahre,2006,200612,43,40,-17.31,7.5,54
+Altersgruppen,50 bis 59 Jahre,2005,Summe,190,207,,-8.21,
+Altersgruppen,50 bis 59 Jahre,2005,200503,62,53,37.78,16.98,54
+Altersgruppen,50 bis 59 Jahre,2005,200506,42,48,-32.26,-12.5,53
+Altersgruppen,50 bis 59 Jahre,2005,200509,46,61,9.52,-24.59,49
+Altersgruppen,50 bis 59 Jahre,2005,200512,40,45,-13.04,-11.11,48
+Altersgruppen,50 bis 59 Jahre,2004,Summe,207,244,,-15.16,
+Altersgruppen,50 bis 59 Jahre,2004,200403,53,67,26.19,-20.9,58
+Altersgruppen,50 bis 59 Jahre,2004,200406,48,53,-9.43,-9.43,56
+Altersgruppen,50 bis 59 Jahre,2004,200409,61,82,27.08,-25.61,51
+Altersgruppen,50 bis 59 Jahre,2004,200412,45,42,-26.23,7.14,52
+Altersgruppen,50 bis 59 Jahre,2003,Summe,244,,,,
+Altersgruppen,50 bis 59 Jahre,2003,200303,67,,,,67
+Altersgruppen,50 bis 59 Jahre,2003,200306,53,,-20.9,,60
+Altersgruppen,50 bis 59 Jahre,2003,200309,82,,54.72,,67
+Altersgruppen,50 bis 59 Jahre,2003,200312,42,,-48.78,,61
+Altersgruppen,60 Jahre und älter,2021,Summe,52,185,,-71.89,
+Altersgruppen,60 Jahre und älter,2021,202103,52,41,13.04,26.83,49
+Altersgruppen,60 Jahre und älter,2021,202106,,59,,,
+Altersgruppen,60 Jahre und älter,2021,202109,,39,,,
+Altersgruppen,60 Jahre und älter,2021,202112,,46,,,
+Altersgruppen,60 Jahre und älter,2020,Summe,185,266,,-30.45,
+Altersgruppen,60 Jahre und älter,2020,202003,41,92,-16.33,-55.43,54
+Altersgruppen,60 Jahre und älter,2020,202006,59,62,43.9,-4.84,53
+Altersgruppen,60 Jahre und älter,2020,202009,39,63,-33.9,-38.1,47
+Altersgruppen,60 Jahre und älter,2020,202012,46,49,17.95,-6.12,46
+Altersgruppen,60 Jahre und älter,2019,Summe,266,259,,2.7,
+Altersgruppen,60 Jahre und älter,2019,201903,92,76,142.11,21.05,69
+Altersgruppen,60 Jahre und älter,2019,201906,62,76,-32.61,-18.42,65
+Altersgruppen,60 Jahre und älter,2019,201909,63,69,1.61,-8.7,64
+Altersgruppen,60 Jahre und älter,2019,201912,49,38,-22.22,28.95,67
+Altersgruppen,60 Jahre und älter,2018,Summe,259,169,,53.25,
+Altersgruppen,60 Jahre und älter,2018,201803,76,25,72.73,204,55
+Altersgruppen,60 Jahre und älter,2018,201806,76,39,0,94.87,64
+Altersgruppen,60 Jahre und älter,2018,201809,69,61,-9.21,13.11,66
+Altersgruppen,60 Jahre und älter,2018,201812,38,44,-44.93,-13.64,65
+Altersgruppen,60 Jahre und älter,2017,Summe,169,99,,70.71,
+Altersgruppen,60 Jahre und älter,2017,201703,25,22,-21.88,13.64,26
+Altersgruppen,60 Jahre und älter,2017,201706,39,24,56,62.5,29
+Altersgruppen,60 Jahre und älter,2017,201709,61,21,56.41,190.48,39
+Altersgruppen,60 Jahre und älter,2017,201712,44,32,-27.87,37.5,42
+Altersgruppen,60 Jahre und älter,2016,Summe,99,71,,39.44,
+Altersgruppen,60 Jahre und älter,2016,201603,22,12,-15.38,83.33,20
+Altersgruppen,60 Jahre und älter,2016,201606,24,15,9.09,60,23
+Altersgruppen,60 Jahre und älter,2016,201609,21,18,-12.5,16.67,23
+Altersgruppen,60 Jahre und älter,2016,201612,32,26,52.38,23.08,25
+Altersgruppen,60 Jahre und älter,2015,Summe,71,55,,29.09,
+Altersgruppen,60 Jahre und älter,2015,201503,12,15,-14.29,-20,13
+Altersgruppen,60 Jahre und älter,2015,201506,15,7,25,114.29,15
+Altersgruppen,60 Jahre und älter,2015,201509,18,19,20,-5.26,15
+Altersgruppen,60 Jahre und älter,2015,201512,26,14,44.44,85.71,18
+Altersgruppen,60 Jahre und älter,2014,Summe,55,70,,-21.43,
+Altersgruppen,60 Jahre und älter,2014,201403,15,13,-11.76,15.38,18
+Altersgruppen,60 Jahre und älter,2014,201406,7,13,-53.33,-46.15,17
+Altersgruppen,60 Jahre und älter,2014,201409,19,27,171.43,-29.63,15
+Altersgruppen,60 Jahre und älter,2014,201412,14,17,-26.32,-17.65,14
+Altersgruppen,60 Jahre und älter,2013,Summe,70,56,,25,
+Altersgruppen,60 Jahre und älter,2013,201303,13,14,-27.78,-7.14,14
+Altersgruppen,60 Jahre und älter,2013,201306,13,13,0,0,14
+Altersgruppen,60 Jahre und älter,2013,201309,27,11,107.69,145.45,18
+Altersgruppen,60 Jahre und älter,2013,201312,17,18,-37.04,-5.56,18
+Altersgruppen,60 Jahre und älter,2012,Summe,56,69,,-18.84,
+Altersgruppen,60 Jahre und älter,2012,201203,14,16,-33.33,-12.5,17
+Altersgruppen,60 Jahre und älter,2012,201206,13,18,-7.14,-27.78,16
+Altersgruppen,60 Jahre und älter,2012,201209,11,14,-15.38,-21.43,15
+Altersgruppen,60 Jahre und älter,2012,201212,18,21,63.64,-14.29,14
+Altersgruppen,60 Jahre und älter,2011,Summe,69,53,,30.19,
+Altersgruppen,60 Jahre und älter,2011,201103,16,17,23.08,-5.88,13
+Altersgruppen,60 Jahre und älter,2011,201106,18,16,12.5,12.5,14
+Altersgruppen,60 Jahre und älter,2011,201109,14,7,-22.22,100,15
+Altersgruppen,60 Jahre und älter,2011,201112,21,13,50,61.54,17
+Altersgruppen,60 Jahre und älter,2010,Summe,53,79,,-32.91,
+Altersgruppen,60 Jahre und älter,2010,201003,17,27,-15,-37.04,17
+Altersgruppen,60 Jahre und älter,2010,201006,16,17,-5.88,-5.88,17
+Altersgruppen,60 Jahre und älter,2010,201009,7,15,-56.25,-53.33,15
+Altersgruppen,60 Jahre und älter,2010,201012,13,20,85.71,-35,13
+Altersgruppen,60 Jahre und älter,2009,Summe,79,38,,107.89,
+Altersgruppen,60 Jahre und älter,2009,200903,27,12,440,125,13
+Altersgruppen,60 Jahre und älter,2009,200906,17,10,-37.04,70,15
+Altersgruppen,60 Jahre und älter,2009,200909,15,11,-11.76,36.36,16
+Altersgruppen,60 Jahre und älter,2009,200912,20,5,33.33,300,20
+Altersgruppen,60 Jahre und älter,2008,Summe,38,97,,-60.82,
+Altersgruppen,60 Jahre und älter,2008,200803,12,25,-7.69,-52,21
+Altersgruppen,60 Jahre und älter,2008,200806,10,30,-16.67,-66.67,16
+Altersgruppen,60 Jahre und älter,2008,200809,11,29,10,-62.07,12
+Altersgruppen,60 Jahre und älter,2008,200812,5,13,-54.55,-61.54,10
+Altersgruppen,60 Jahre und älter,2007,Summe,97,110,,-11.82,
+Altersgruppen,60 Jahre und älter,2007,200703,25,37,4.17,-32.43,25
+Altersgruppen,60 Jahre und älter,2007,200706,30,33,20,-9.09,24
+Altersgruppen,60 Jahre und älter,2007,200709,29,16,-3.33,81.25,27
+Altersgruppen,60 Jahre und älter,2007,200712,13,24,-55.17,-45.83,24
+Altersgruppen,60 Jahre und älter,2006,Summe,110,83,,32.53,
+Altersgruppen,60 Jahre und älter,2006,200603,37,24,131.25,54.17,24
+Altersgruppen,60 Jahre und älter,2006,200606,33,23,-10.81,43.48,27
+Altersgruppen,60 Jahre und älter,2006,200609,16,20,-51.52,-20,26
+Altersgruppen,60 Jahre und älter,2006,200612,24,16,50,50,28
+Altersgruppen,60 Jahre und älter,2005,Summe,83,82,,1.22,
+Altersgruppen,60 Jahre und älter,2005,200503,24,23,60,4.35,21
+Altersgruppen,60 Jahre und älter,2005,200506,23,23,-4.17,0,21
+Altersgruppen,60 Jahre und älter,2005,200509,20,21,-13.04,-4.76,21
+Altersgruppen,60 Jahre und älter,2005,200512,16,15,-20,6.67,21
+Altersgruppen,60 Jahre und älter,2004,Summe,82,94,,-12.77,
+Altersgruppen,60 Jahre und älter,2004,200403,23,29,35.29,-20.69,22
+Altersgruppen,60 Jahre und älter,2004,200406,23,20,0,15,23
+Altersgruppen,60 Jahre und älter,2004,200409,21,28,-8.7,-25,21
+Altersgruppen,60 Jahre und älter,2004,200412,15,17,-28.57,-11.76,21
+Altersgruppen,60 Jahre und älter,2003,Summe,94,,,,
+Altersgruppen,60 Jahre und älter,2003,200303,29,,,,29
+Altersgruppen,60 Jahre und älter,2003,200306,20,,-31.03,,25
+Altersgruppen,60 Jahre und älter,2003,200309,28,,40,,26
+Altersgruppen,60 Jahre und älter,2003,200312,17,,-39.29,,24
+Geschlecht,insgesamt,2021,Summe,1396,6318,,-77.9,
+Geschlecht,insgesamt,2021,202103,1396,1287,-1.41,8.47,1607
+Geschlecht,insgesamt,2021,202106,,1798,,,
+Geschlecht,insgesamt,2021,202109,,1817,,,
+Geschlecht,insgesamt,2021,202112,,1416,,,
+Geschlecht,insgesamt,2020,Summe,6318,6520,,-3.1,
+Geschlecht,insgesamt,2020,202003,1287,1853,-17.55,-30.55,1489
+Geschlecht,insgesamt,2020,202006,1798,1570,39.7,14.52,1546
+Geschlecht,insgesamt,2020,202009,1817,1536,1.06,18.29,1616
+Geschlecht,insgesamt,2020,202012,1416,1561,-22.07,-9.29,1580
+Geschlecht,insgesamt,2019,Summe,6520,5841,,11.62,
+Geschlecht,insgesamt,2019,201903,1853,1573,55.45,17.8,1530
+Geschlecht,insgesamt,2019,201906,1570,1494,-15.27,5.09,1549
+Geschlecht,insgesamt,2019,201909,1536,1582,-2.17,-2.91,1538
+Geschlecht,insgesamt,2019,201912,1561,1192,1.63,30.96,1630
+Geschlecht,insgesamt,2018,Summe,5841,3952,,47.8,
+Geschlecht,insgesamt,2018,201803,1573,833,51.98,88.84,1173
+Geschlecht,insgesamt,2018,201806,1494,950,-5.02,57.26,1309
+Geschlecht,insgesamt,2018,201809,1582,1134,5.89,39.51,1421
+Geschlecht,insgesamt,2018,201812,1192,1035,-24.65,15.17,1460
+Geschlecht,insgesamt,2017,Summe,3952,3443,,14.78,
+Geschlecht,insgesamt,2017,201703,833,816,1.22,2.08,865
+Geschlecht,insgesamt,2017,201706,950,852,14.05,11.5,890
+Geschlecht,insgesamt,2017,201709,1134,952,19.37,19.12,935
+Geschlecht,insgesamt,2017,201712,1035,823,-8.73,25.76,988
+Geschlecht,insgesamt,2016,Summe,3443,3019,,14.04,
+Geschlecht,insgesamt,2016,201603,816,498,-2.28,63.86,834
+Geschlecht,insgesamt,2016,201606,852,873,4.41,-2.41,829
+Geschlecht,insgesamt,2016,201609,952,813,11.74,17.1,864
+Geschlecht,insgesamt,2016,201612,823,835,-13.55,-1.44,861
+Geschlecht,insgesamt,2015,Summe,3019,2410,,25.27,
+Geschlecht,insgesamt,2015,201503,498,666,-18.89,-25.23,561
+Geschlecht,insgesamt,2015,201506,873,410,75.3,112.93,676
+Geschlecht,insgesamt,2015,201509,813,720,-6.87,12.92,700
+Geschlecht,insgesamt,2015,201512,835,614,2.71,35.99,755
+Geschlecht,insgesamt,2014,Summe,2410,3047,,-20.91,
+Geschlecht,insgesamt,2014,201403,666,681,-12.14,-2.2,758
+Geschlecht,insgesamt,2014,201406,410,712,-38.44,-42.42,683
+Geschlecht,insgesamt,2014,201409,720,896,75.61,-19.64,639
+Geschlecht,insgesamt,2014,201412,614,758,-14.72,-19,603
+Geschlecht,insgesamt,2013,Summe,3047,2821,,8.01,
+Geschlecht,insgesamt,2013,201303,681,770,3.18,-11.56,683
+Geschlecht,insgesamt,2013,201306,712,615,4.55,15.77,707
+Geschlecht,insgesamt,2013,201309,896,776,25.84,15.46,737
+Geschlecht,insgesamt,2013,201312,758,660,-15.4,14.85,762
+Geschlecht,insgesamt,2012,Summe,2821,3152,,-10.5,
+Geschlecht,insgesamt,2012,201203,770,831,-5.87,-7.34,773
+Geschlecht,insgesamt,2012,201206,615,806,-20.13,-23.7,725
+Geschlecht,insgesamt,2012,201209,776,697,26.18,11.33,745
+Geschlecht,insgesamt,2012,201212,660,818,-14.95,-19.32,705
+Geschlecht,insgesamt,2011,Summe,3152,2795,,12.77,
+Geschlecht,insgesamt,2011,201103,831,767,27.65,8.34,715
+Geschlecht,insgesamt,2011,201106,806,674,-3.01,19.58,748
+Geschlecht,insgesamt,2011,201109,697,703,-13.52,-0.85,746
+Geschlecht,insgesamt,2011,201112,818,651,17.36,25.65,788
+Geschlecht,insgesamt,2010,Summe,2795,2852,,-2,
+Geschlecht,insgesamt,2010,201003,767,645,20.6,18.91,744
+Geschlecht,insgesamt,2010,201006,674,763,-12.13,-11.66,721
+Geschlecht,insgesamt,2010,201009,703,808,4.3,-13,695
+Geschlecht,insgesamt,2010,201012,651,636,-7.4,2.36,699
+Geschlecht,insgesamt,2009,Summe,2852,2074,,37.51,
+Geschlecht,insgesamt,2009,200903,645,522,38.41,23.56,549
+Geschlecht,insgesamt,2009,200906,763,500,18.29,52.6,615
+Geschlecht,insgesamt,2009,200909,808,586,5.9,37.88,671
+Geschlecht,insgesamt,2009,200912,636,466,-21.29,36.48,713
+Geschlecht,insgesamt,2008,Summe,2074,2661,,-22.06,
+Geschlecht,insgesamt,2008,200803,522,639,-8.26,-18.31,636
+Geschlecht,insgesamt,2008,200806,500,788,-4.21,-36.55,564
+Geschlecht,insgesamt,2008,200809,586,665,17.2,-11.88,544
+Geschlecht,insgesamt,2008,200812,466,569,-20.48,-18.1,519
+Geschlecht,insgesamt,2007,Summe,2661,2557,,4.07,
+Geschlecht,insgesamt,2007,200703,639,685,4.75,-6.72,628
+Geschlecht,insgesamt,2007,200706,788,707,23.32,11.46,648
+Geschlecht,insgesamt,2007,200709,665,555,-15.61,19.82,676
+Geschlecht,insgesamt,2007,200712,569,610,-14.44,-6.72,665
+Geschlecht,insgesamt,2006,Summe,2557,2681,,-4.63,
+Geschlecht,insgesamt,2006,200603,685,758,9.6,-9.63,652
+Geschlecht,insgesamt,2006,200606,707,696,3.21,1.58,655
+Geschlecht,insgesamt,2006,200609,555,602,-21.5,-7.81,643
+Geschlecht,insgesamt,2006,200612,610,625,9.91,-2.4,639
+Geschlecht,insgesamt,2005,Summe,2681,3034,,-11.63,
+Geschlecht,insgesamt,2005,200503,758,734,12.46,3.27,765
+Geschlecht,insgesamt,2005,200506,696,779,-8.18,-10.65,744
+Geschlecht,insgesamt,2005,200509,602,847,-13.51,-28.93,683
+Geschlecht,insgesamt,2005,200512,625,674,3.82,-7.27,670
+Geschlecht,insgesamt,2004,Summe,3034,3489,,-13.04,
+Geschlecht,insgesamt,2004,200403,734,901,-7.32,-18.53,831
+Geschlecht,insgesamt,2004,200406,779,724,6.13,7.6,844
+Geschlecht,insgesamt,2004,200409,847,1072,8.73,-20.99,788
+Geschlecht,insgesamt,2004,200412,674,792,-20.43,-14.9,759
+Geschlecht,insgesamt,2003,Summe,3489,,,,
+Geschlecht,insgesamt,2003,200303,901,,,,901
+Geschlecht,insgesamt,2003,200306,724,,-19.64,,813
+Geschlecht,insgesamt,2003,200309,1072,,48.07,,899
+Geschlecht,insgesamt,2003,200312,792,,-26.12,,872
+Geschlecht,männlich,2021,Summe,666,2992,,-77.74,
+Geschlecht,männlich,2021,202103,666,590,-6.46,12.88,767
+Geschlecht,männlich,2021,202106,,848,,,
+Geschlecht,männlich,2021,202109,,842,,,
+Geschlecht,männlich,2021,202112,,712,,,
+Geschlecht,männlich,2020,Summe,2992,2972,,0.67,
+Geschlecht,männlich,2020,202003,590,830,-20.05,-28.92,683
+Geschlecht,männlich,2020,202006,848,730,43.73,16.16,713
+Geschlecht,männlich,2020,202009,842,674,-0.71,24.93,755
+Geschlecht,männlich,2020,202012,712,738,-15.44,-3.52,748
+Geschlecht,männlich,2019,Summe,2972,2692,,10.4,
+Geschlecht,männlich,2019,201903,830,725,47.69,14.48,699
+Geschlecht,männlich,2019,201906,730,671,-12.05,8.79,714
+Geschlecht,männlich,2019,201909,674,734,-7.67,-8.17,699
+Geschlecht,männlich,2019,201912,738,562,9.5,31.32,743
+Geschlecht,männlich,2018,Summe,2692,1810,,48.73,
+Geschlecht,männlich,2018,201803,725,385,47.66,88.31,538
+Geschlecht,männlich,2018,201806,671,421,-7.45,59.38,600
+Geschlecht,männlich,2018,201809,734,513,9.39,43.08,655
+Geschlecht,männlich,2018,201812,562,491,-23.43,14.46,673
+Geschlecht,männlich,2017,Summe,1810,1561,,15.95,
+Geschlecht,männlich,2017,201703,385,383,2.94,0.52,391
+Geschlecht,männlich,2017,201706,421,362,9.35,16.3,406
+Geschlecht,männlich,2017,201709,513,442,21.85,16.06,423
+Geschlecht,männlich,2017,201712,491,374,-4.29,31.28,453
+Geschlecht,männlich,2016,Summe,1561,1367,,14.19,
+Geschlecht,männlich,2016,201603,383,236,2.68,62.29,379
+Geschlecht,männlich,2016,201606,362,384,-5.48,-5.73,373
+Geschlecht,männlich,2016,201609,442,374,22.1,18.18,390
+Geschlecht,männlich,2016,201612,374,373,-15.38,0.27,390
+Geschlecht,männlich,2015,Summe,1367,1143,,19.6,
+Geschlecht,männlich,2015,201503,236,322,-16.31,-26.71,264
+Geschlecht,männlich,2015,201506,384,193,62.71,98.96,312
+Geschlecht,männlich,2015,201509,374,346,-2.6,8.09,319
+Geschlecht,männlich,2015,201512,373,282,-0.27,32.27,342
+Geschlecht,männlich,2014,Summe,1143,1434,,-20.29,
+Geschlecht,männlich,2014,201403,322,334,-10.31,-3.59,356
+Geschlecht,männlich,2014,201406,193,317,-40.06,-39.12,325
+Geschlecht,männlich,2014,201409,346,424,79.27,-18.4,305
+Geschlecht,männlich,2014,201412,282,359,-18.5,-21.45,286
+Geschlecht,männlich,2013,Summe,1434,1413,,1.49,
+Geschlecht,männlich,2013,201303,334,391,5.36,-14.58,339
+Geschlecht,männlich,2013,201306,317,302,-5.09,4.97,343
+Geschlecht,männlich,2013,201309,424,403,33.75,5.21,348
+Geschlecht,männlich,2013,201312,359,317,-15.33,13.25,359
+Geschlecht,männlich,2012,Summe,1413,1568,,-9.89,
+Geschlecht,männlich,2012,201203,391,411,-5.56,-4.87,387
+Geschlecht,männlich,2012,201206,302,397,-22.76,-23.93,363
+Geschlecht,männlich,2012,201209,403,346,33.44,16.47,378
+Geschlecht,männlich,2012,201212,317,414,-21.34,-23.43,353
+Geschlecht,männlich,2011,Summe,1568,1423,,10.19,
+Geschlecht,männlich,2011,201103,411,395,22.69,4.05,360
+Geschlecht,männlich,2011,201106,397,344,-3.41,15.41,373
+Geschlecht,männlich,2011,201109,346,349,-12.85,-0.86,372
+Geschlecht,männlich,2011,201112,414,335,19.65,23.58,392
+Geschlecht,männlich,2010,Summe,1423,1477,,-3.66,
+Geschlecht,männlich,2010,201003,395,333,22.67,18.62,385
+Geschlecht,männlich,2010,201006,344,407,-12.91,-15.48,369
+Geschlecht,männlich,2010,201009,349,415,1.45,-15.9,353
+Geschlecht,männlich,2010,201012,335,322,-4.01,4.04,356
+Geschlecht,männlich,2009,Summe,1477,1010,,46.24,
+Geschlecht,männlich,2009,200903,333,259,42.31,28.57,271
+Geschlecht,männlich,2009,200906,407,252,22.22,61.51,310
+Geschlecht,männlich,2009,200909,415,265,1.97,56.6,347
+Geschlecht,männlich,2009,200912,322,234,-22.41,37.61,369
+Geschlecht,männlich,2008,Summe,1010,1315,,-23.19,
+Geschlecht,männlich,2008,200803,259,321,-6.83,-19.31,313
+Geschlecht,männlich,2008,200806,252,393,-2.7,-35.88,278
+Geschlecht,männlich,2008,200809,265,323,5.16,-17.96,264
+Geschlecht,männlich,2008,200812,234,278,-11.7,-15.83,253
+Geschlecht,männlich,2007,Summe,1315,1327,,-0.9,
+Geschlecht,männlich,2007,200703,321,355,1.26,-9.58,323
+Geschlecht,männlich,2007,200706,393,383,22.43,2.61,326
+Geschlecht,männlich,2007,200709,323,272,-17.81,18.75,339
+Geschlecht,männlich,2007,200712,278,317,-13.93,-12.3,329
+Geschlecht,männlich,2006,Summe,1327,1407,,-5.69,
+Geschlecht,männlich,2006,200603,355,406,6.29,-12.56,339
+Geschlecht,männlich,2006,200606,383,349,7.89,9.74,348
+Geschlecht,männlich,2006,200609,272,318,-28.98,-14.47,336
+Geschlecht,männlich,2006,200612,317,334,16.54,-5.09,332
+Geschlecht,männlich,2005,Summe,1407,1596,,-11.84,
+Geschlecht,männlich,2005,200503,406,395,12.78,2.78,402
+Geschlecht,männlich,2005,200506,349,393,-14.04,-11.2,391
+Geschlecht,männlich,2005,200509,318,448,-8.88,-29.02,358
+Geschlecht,männlich,2005,200512,334,360,5.03,-7.22,352
+Geschlecht,männlich,2004,Summe,1596,1824,,-12.5,
+Geschlecht,männlich,2004,200403,395,486,-1,-18.72,433
+Geschlecht,männlich,2004,200406,393,374,-0.51,5.08,438
+Geschlecht,männlich,2004,200409,448,565,13.99,-20.71,409
+Geschlecht,männlich,2004,200412,360,399,-19.64,-9.77,399
+Geschlecht,männlich,2003,Summe,1824,,,,
+Geschlecht,männlich,2003,200303,486,,,,486
+Geschlecht,männlich,2003,200306,374,,-23.05,,430
+Geschlecht,männlich,2003,200309,565,,51.07,,475
+Geschlecht,männlich,2003,200312,399,,-29.38,,456
+Geschlecht,weiblich ,2021,Summe,730,3326,,-78.05,
+Geschlecht,weiblich ,2021,202103,730,697,3.69,4.73,840
+Geschlecht,weiblich ,2021,202106,,950,,,
+Geschlecht,weiblich ,2021,202109,,975,,,
+Geschlecht,weiblich ,2021,202112,,704,,,
+Geschlecht,weiblich ,2020,Summe,3326,3548,,-6.26,
+Geschlecht,weiblich ,2020,202003,697,1023,-15.31,-31.87,806
+Geschlecht,weiblich ,2020,202006,950,840,36.3,13.1,833
+Geschlecht,weiblich ,2020,202009,975,862,2.63,13.11,861
+Geschlecht,weiblich ,2020,202012,704,823,-27.79,-14.46,832
+Geschlecht,weiblich ,2019,Summe,3548,3149,,12.67,
+Geschlecht,weiblich ,2019,201903,1023,848,62.38,20.64,831
+Geschlecht,weiblich ,2019,201906,840,823,-17.89,2.07,835
+Geschlecht,weiblich ,2019,201909,862,848,2.62,1.65,839
+Geschlecht,weiblich ,2019,201912,823,630,-4.52,30.63,887
+Geschlecht,weiblich ,2018,Summe,3149,2142,,47.01,
+Geschlecht,weiblich ,2018,201803,848,448,55.88,89.29,636
+Geschlecht,weiblich ,2018,201806,823,529,-2.95,55.58,709
+Geschlecht,weiblich ,2018,201809,848,621,3.04,36.55,766
+Geschlecht,weiblich ,2018,201812,630,544,-25.71,15.81,787
+Geschlecht,weiblich ,2017,Summe,2142,1882,,13.82,
+Geschlecht,weiblich ,2017,201703,448,433,-0.22,3.46,474
+Geschlecht,weiblich ,2017,201706,529,490,18.08,7.96,484
+Geschlecht,weiblich ,2017,201709,621,510,17.39,21.76,512
+Geschlecht,weiblich ,2017,201712,544,449,-12.4,21.16,536
+Geschlecht,weiblich ,2016,Summe,1882,1652,,13.92,
+Geschlecht,weiblich ,2016,201603,433,262,-6.28,65.27,456
+Geschlecht,weiblich ,2016,201606,490,489,13.16,0.2,456
+Geschlecht,weiblich ,2016,201609,510,439,4.08,16.17,474
+Geschlecht,weiblich ,2016,201612,449,462,-11.96,-2.81,471
+Geschlecht,weiblich ,2015,Summe,1652,1267,,30.39,
+Geschlecht,weiblich ,2015,201503,262,344,-21.08,-23.84,296
+Geschlecht,weiblich ,2015,201506,489,217,86.64,125.35,364
+Geschlecht,weiblich ,2015,201509,439,374,-10.22,17.38,381
+Geschlecht,weiblich ,2015,201512,462,332,5.24,39.16,413
+Geschlecht,weiblich ,2014,Summe,1267,1613,,-21.45,
+Geschlecht,weiblich ,2014,201403,344,347,-13.78,-0.86,403
+Geschlecht,weiblich ,2014,201406,217,395,-36.92,-45.06,358
+Geschlecht,weiblich ,2014,201409,374,472,72.35,-20.76,334
+Geschlecht,weiblich ,2014,201412,332,399,-11.23,-16.79,317
+Geschlecht,weiblich ,2013,Summe,1613,1408,,14.56,
+Geschlecht,weiblich ,2013,201303,347,379,1.17,-8.44,344
+Geschlecht,weiblich ,2013,201306,395,313,13.83,26.2,365
+Geschlecht,weiblich ,2013,201309,472,373,19.49,26.54,389
+Geschlecht,weiblich ,2013,201312,399,343,-15.47,16.33,403
+Geschlecht,weiblich ,2012,Summe,1408,1584,,-11.11,
+Geschlecht,weiblich ,2012,201203,379,420,-6.19,-9.76,386
+Geschlecht,weiblich ,2012,201206,313,409,-17.41,-23.47,362
+Geschlecht,weiblich ,2012,201209,373,351,19.17,6.27,367
+Geschlecht,weiblich ,2012,201212,343,404,-8.04,-15.1,352
+Geschlecht,weiblich ,2011,Summe,1584,1372,,15.45,
+Geschlecht,weiblich ,2011,201103,420,372,32.91,12.9,355
+Geschlecht,weiblich ,2011,201106,409,330,-2.62,23.94,375
+Geschlecht,weiblich ,2011,201109,351,354,-14.18,-0.85,374
+Geschlecht,weiblich ,2011,201112,404,316,15.1,27.85,396
+Geschlecht,weiblich ,2010,Summe,1372,1375,,-0.22,
+Geschlecht,weiblich ,2010,201003,372,312,18.47,19.23,359
+Geschlecht,weiblich ,2010,201006,330,356,-11.29,-7.3,352
+Geschlecht,weiblich ,2010,201009,354,393,7.27,-9.92,343
+Geschlecht,weiblich ,2010,201012,316,314,-10.73,0.64,343
+Geschlecht,weiblich ,2009,Summe,1375,1064,,29.23,
+Geschlecht,weiblich ,2009,200903,312,263,34.48,18.63,278
+Geschlecht,weiblich ,2009,200906,356,248,14.1,43.55,305
+Geschlecht,weiblich ,2009,200909,393,321,10.39,22.43,323
+Geschlecht,weiblich ,2009,200912,314,232,-20.1,35.34,344
+Geschlecht,weiblich ,2008,Summe,1064,1346,,-20.95,
+Geschlecht,weiblich ,2008,200803,263,318,-9.62,-17.3,323
+Geschlecht,weiblich ,2008,200806,248,395,-5.7,-37.22,286
+Geschlecht,weiblich ,2008,200809,321,342,29.44,-6.14,281
+Geschlecht,weiblich ,2008,200812,232,291,-27.73,-20.27,266
+Geschlecht,weiblich ,2007,Summe,1346,1230,,9.43,
+Geschlecht,weiblich ,2007,200703,318,330,8.53,-3.64,305
+Geschlecht,weiblich ,2007,200706,395,324,24.21,21.91,322
+Geschlecht,weiblich ,2007,200709,342,283,-13.42,20.85,337
+Geschlecht,weiblich ,2007,200712,291,293,-14.91,-0.68,337
+Geschlecht,weiblich ,2006,Summe,1230,1274,,-3.45,
+Geschlecht,weiblich ,2006,200603,330,352,13.4,-6.25,313
+Geschlecht,weiblich ,2006,200606,324,347,-1.82,-6.63,307
+Geschlecht,weiblich ,2006,200609,283,284,-12.65,-0.35,307
+Geschlecht,weiblich ,2006,200612,293,291,3.53,0.69,308
+Geschlecht,weiblich ,2005,Summe,1274,1438,,-11.4,
+Geschlecht,weiblich ,2005,200503,352,339,12.1,3.83,363
+Geschlecht,weiblich ,2005,200506,347,386,-1.42,-10.1,353
+Geschlecht,weiblich ,2005,200509,284,399,-18.16,-28.82,324
+Geschlecht,weiblich ,2005,200512,291,314,2.46,-7.32,319
+Geschlecht,weiblich ,2004,Summe,1438,1665,,-13.63,
+Geschlecht,weiblich ,2004,200403,339,415,-13.74,-18.31,397
+Geschlecht,weiblich ,2004,200406,386,350,13.86,10.29,406
+Geschlecht,weiblich ,2004,200409,399,507,3.37,-21.3,379
+Geschlecht,weiblich ,2004,200412,314,393,-21.3,-20.1,360
+Geschlecht,weiblich ,2003,Summe,1665,,,,
+Geschlecht,weiblich ,2003,200303,415,,,,415
+Geschlecht,weiblich ,2003,200306,350,,-15.66,,383
+Geschlecht,weiblich ,2003,200309,507,,44.86,,424
+Geschlecht,weiblich ,2003,200312,393,,-22.49,,416
